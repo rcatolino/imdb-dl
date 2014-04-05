@@ -1,0 +1,9 @@
+{
+  "name": "imdb-dl",
+  "title": "imdb-dl",
+  "id": "jid1-j9y6zAtZnRpJpA",
+  "description": "Add an option to download torrents from an imdb movie page",
+  "author": "Raphael Catolino",
+  "license": "GPLv3",
+  "version": "0.1"
+}
